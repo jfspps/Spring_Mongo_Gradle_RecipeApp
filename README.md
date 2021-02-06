@@ -1,6 +1,4 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/spring5-mongo-recipe-app.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring5-mongo-recipe-app)
-
-[![codecov](https://codecov.io/gh/springframeworkguru/spring5-mongo-recipe-app/branch/master/graph/badge.svg)](https://codecov.io/gh/springframeworkguru/spring5-mongo-recipe-app)
+[![CircleCI](https://circleci.com/gh/jfspps/Spring_Mongo_Gradle_RecipeApp.svg?style=svg)](https://app.circleci.com/pipelines/github/jfspps/Spring_Mongo_Gradle_RecipeApp)
 
 # Demo Recipe App with Spring, MongoDB and Gradle
 This project was forked from a Springframeworkguru and worked through to demonstrate the use of MongoDB and Gradle (as 
